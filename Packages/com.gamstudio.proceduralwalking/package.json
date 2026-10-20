@@ -1,0 +1,22 @@
+{
+  "name": "com.gamstudio.proceduralwalking",
+  "version": "0.2.0",
+  "displayName": "GAM Procedural Walking",
+  "description": "Procedural walking for rigged spider-like creatures. Adds a custom FABRIK IK chain per leg, grouped gaits with predictive foot placement, and surface crawling over walls and ceilings. Includes automatic leg detection, inspectors and editor gizmos.",
+  "unity": "6000.0",
+  "author": {
+    "name": "GAM Studio"
+  },
+  "keywords": [
+    "procedural",
+    "animation",
+    "ik",
+    "fabrik",
+    "spider",
+    "walking",
+    "locomotion"
+  ],
+  "dependencies": {
+    "com.unity.modules.physics": "1.0.0"
+  }
+}
